@@ -61,7 +61,7 @@ namespace eProdaja.WinUI.Properties {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to https://localhost:44341/.
+        ///   Looks up a localized string similar to http://localhost:5010/.
         /// </summary>
         internal static string ApiUrl {
             get {

@@ -11,15 +11,7 @@ namespace eProdaja
     {
         public void Init(eProdajaContext context)
         {
-            //context.Database.Migrate();
-
-            ////add new new data or update data
-            //if (!context.JediniceMjeres.Any(x => x.Naziv == "Test"))
-            //{
-            //    context.JediniceMjeres.Add(new JediniceMjere() { Naziv = "Test" });
-            //}
-
-            //context.SaveChanges();
+            context.Database.Migrate();
         }
     }
 }

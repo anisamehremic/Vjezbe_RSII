@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="ApiUrl" xml:space="preserve">
-    <value>https://localhost:44341/</value>
+    <value>http://localhost:5010/</value>
   </data>
   <data name="lblImeKorisnika" xml:space="preserve">
     <value>Ime korisnika</value>
